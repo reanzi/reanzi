@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Raymond Nziku (@reanzi)
-- 👀 I’m interested in electronics and programming (JS, Python, C++, Kotlin)
-- 🌱 I’m currently working on a project using nextjs 14 and convex database 
-- 💞️ I’m looking to collaborate on, NextJS,React Native and Nodejs
+- 👀 I’m interested in electronics and programming (TS, Python, C++, Kotlin)
+- 🌱 I’m currently working on a project using React, C++ (esp32 iot) and convex database 
+- 💞️ I’m looking to collaborate on,React Native and Nodejs
 - 📫 Reach me via Twitter at @nziku99
 
 <!---
